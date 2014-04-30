@@ -1,6 +1,7 @@
 # Sinderella
 
-TODO: Write a gem description
+Followed Sinderella Tutorial here:
+http://www.smashingmagazine.com/2014/04/08/how-to-build-a-ruby-gem-with-bundler-test-driven-development-travis-ci-and-coveralls-oh-my/
 
 ## Installation
 
